@@ -1,0 +1,7 @@
+STEPS NOTED
+1. set up index.html, styles.css, main.js
+2. get all images, icons
+3. set favicon
+5. set boxicon
+6. set google fonts
+7. 
